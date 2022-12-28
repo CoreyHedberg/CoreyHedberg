@@ -5,7 +5,7 @@
 Learning to code, one line at a time.
 
 - 🌍  I'm based in Tampa, FL
-- 🖥️  See my portfolio at [here](http://coreyhedberg.dev)
+- 🖥️  See my portfolio [here](https://coreyhedberg.dev)
 - 🧠  I'm learning JavaScript
 
 ### Skills
