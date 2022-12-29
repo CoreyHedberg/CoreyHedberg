@@ -18,8 +18,7 @@ Learning to code, one line at a time.
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CoreyHedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.png" width="32" height="32"/></a></p>
+<p align="left"> <a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CoreyHedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" width="32" height="32"/></a></p>
 
 ### Badges
 
