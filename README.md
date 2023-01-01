@@ -7,6 +7,7 @@ Learning to code, one line at a time.
 - 🌍  I am located in Tampa, FL
 - 🖥️  See my portfolio [here](https://coreyhedberg.dev)
 - 🧠  I am learning JavaScript
+- ⚡  Huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
 
 ### Skills
 
