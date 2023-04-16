@@ -1,15 +1,15 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Corey Hedberg!
 
-## Web Developer
+### ... and I like to say that I am "Learning to code, one line at a time."
 
-Learning to code, one line at a time.
+<br>
 
 - 🌍  I am located in Tampa, FL
-- 🖥️  See my portfolio [here](https://coreyhedberg.dev)
-- 🧠  I am learning JavaScript
-- ⚡  I am a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
+- 🖥️  See my personal website [here](https://coreyhedberg.dev)
+- 🧠  I am currently learning JavaScript
+- ⚡  I am also a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
@@ -17,12 +17,12 @@ Learning to code, one line at a time.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/CoreyHedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" width="32" height="32"/></a>
 <a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" width="32" height="32"/></a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
