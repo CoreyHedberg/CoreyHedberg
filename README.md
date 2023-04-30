@@ -1,9 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Corey Hedberg!
 
-### ... and I like to say that I am "Learning to code, one line at a time."
-
-<br>
-
 - 🌍  I am located in Tampa, FL
 - 🖥️  See my personal website [here](https://coreyhedberg.dev)
 - 🧠  I am currently learning JavaScript
