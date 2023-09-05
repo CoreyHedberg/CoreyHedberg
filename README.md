@@ -5,6 +5,8 @@
 - 🧠  I am currently learning JavaScript
 - ⚡  I am also a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
 
+:octocat:
+
 ## Skills
 
 <p align="left">
