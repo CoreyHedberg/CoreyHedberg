@@ -12,15 +12,18 @@
 ## Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+<img src="./images/html5.svg" width="48" height="48" alt="HTML5" /></a>
+<img src="./images/css3.svg" width="48" height="48" alt="CSS3" /></a>
+<img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" /></a>
 </p>
 
 ## Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" width="32" height="32"/></a>
-<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" width="32" height="32"/></a> <a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
+<a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" width="40" height="40"/></a>
+<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" width="40" height="40"/></a>
+<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a></p>
 
 ## Badges
 
