@@ -12,10 +12,10 @@
 ## Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" width="42" height="42" /></a>
 <a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" width="42" height="42"/></a>
 <a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" width="42" height="42"/></a>
-<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="42" height="42" /></a>
+<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" width="42" height="42" /></a>
 <a href="mailto:chedberg.dev@gmail.com" rel="noreferrer"><img src="./images/email.svg" width="42" height="42" /></a>
 </p>
 
