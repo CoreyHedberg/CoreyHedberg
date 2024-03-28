@@ -12,10 +12,11 @@
 ## Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" width="42" height="42" /></a>
-<a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" width="42" height="42"/></a>
-<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" width="42" height="42"/></a>
-<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" alt="LinkedIn" width="42" height="42" /></a>
+<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" alt="Bluesky" width="42" height="42" /></a>
+<a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" alt="Mastodon" width="42" height="42"/></a>
+<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" alt="Free Code Camp" width="42" height="42"/></a>
+<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" alt="Discord" width="42" height="42" /></a>
 <a href="mailto:chedberg.dev@gmail.com" rel="noreferrer"><img src="./images/email.svg" width="42" height="42" /></a>
 </p>
 
