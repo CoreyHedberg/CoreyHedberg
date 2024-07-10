@@ -9,6 +9,10 @@
 - 🧠  I am currently learning JavaScript
 - ⚡  I am also a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
 
+<br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=CoreyHedberg)
+
 ## Let's Connect
 
 <p align="left">
@@ -31,11 +35,15 @@
 
 ## Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
-<a href="http://www.github.com/CoreyHedberg"><img src="https://github-readme-stats.vercel.app/api?username=CoreyHedberg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CoreyHedberg's GitHub stats" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CoreyHedberg&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></a>
 
+<!-- Old Github stats badge
 <a href="http://www.github.com/CoreyHedberg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CoreyHedberg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&layout=donut&theme=toykonight)]
 
 <!-- Commented out as the link is not working at the moment
 <a href="http://www.github.com/CoreyHedberg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CoreyHedberg&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
