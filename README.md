@@ -9,10 +9,6 @@
 - 🧠  I am currently learning JavaScript
 - ⚡  I am also a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
 
-<br>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=CoreyHedberg)
-
 ## Let's Connect
 
 <p align="left">
@@ -33,9 +29,7 @@
 <img src="./images/git.svg" width="48" height="48" alt="Git" /></a>
 </p>
 
-## Badges
-
-### My GitHub Stats
+## My GitHub Stats
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CoreyHedberg&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" /></a>
 
