@@ -23,10 +23,10 @@
 ## Skills
 
 <p align="left">
-<img src="./images/html5.svg" width="48" height="48" alt="HTML5" /></a>
-<img src="./images/css3.svg" width="48" height="48" alt="CSS3" /></a>
-<img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" /></a>
-<img src="./images/git.svg" width="48" height="48" alt="Git" /></a>
+<img src="./images/html5.svg" width="48" height="48" alt="HTML5" />
+<img src="./images/css3.svg" width="48" height="48" alt="CSS3" />
+<img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" />
+<img src="./images/git.svg" width="48" height="48" alt="Git" />
 </p>
 
 ## GitHub Stats
