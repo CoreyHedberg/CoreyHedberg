@@ -41,6 +41,6 @@
 
 <a href="https://github.com/CoreyHedberg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-# Special Thanks
+## Special Thanks
 
 Thank you to [profileme.dev](https://www.profileme.dev/) for providing the service to create an awesome GitHub profile page!
