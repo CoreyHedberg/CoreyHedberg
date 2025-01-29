@@ -1,8 +1,4 @@
-# Hello, my name is Corey Hedberg!
-
-<!--- This is the waving hand GIF
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
---->
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, my name is Corey Hedberg!
 
 - 🌍  I am located in Tampa, FL
 - 🖥️  See my personal website [here](https://coreyhedberg.dev)
@@ -23,10 +19,10 @@
 ## Skills
 
 <p align="left">
-<img src="./images/html5.svg" width="48" height="48" alt="HTML5" />
-<img src="./images/css3.svg" width="48" height="48" alt="CSS3" />
-<img src="./images/javascript.svg" width="48" height="48" alt="JavaScript" />
-<img src="./images/git.svg" width="48" height="48" alt="Git" />
+<img src="./images/html.svg" width="48" alt="HTML5" />
+<img src="./images/css.svg" width="48" alt="CSS" />
+<img src="./images/javascript.svg" width="48" alt="JavaScript" />
+<img src="./images/git.svg" width="48" alt="Git" />
 </p>
 
 ## GitHub Stats
@@ -45,4 +41,6 @@
 
 <a href="https://github.com/CoreyHedberg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-Special thank you to [profileme.dev](https://www.profileme.dev/) for providing the service to create an awesome GitHub profile page!
+# Special Thanks
+
+Thank you to [profileme.dev](https://www.profileme.dev/) for providing the service to create an awesome GitHub profile page!
