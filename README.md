@@ -3,7 +3,7 @@
 - 🌍  I am located in Tampa, FL
 - 🖥️  See my personal website [here](https://coreyhedberg.dev)
 - 🧠  I am currently learning JavaScript
-- ⚡  I am also a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://techhub.social/tags/GoBolts)
+- ⚡  I am also a huge [Tampa Bay Lightning](https://www.nhl.com/lightning) fan! [#GoBolts](https://bsky.app/hashtag/GoBolts)
 
 ## Let's Connect
 
