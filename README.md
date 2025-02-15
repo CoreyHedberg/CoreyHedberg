@@ -8,21 +8,21 @@
 ## Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" alt="LinkedIn" width="42" height="42" /></a>
-<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" alt="Bluesky" width="42" height="42" /></a>
-<a href="https://techhub.social/@chedberg" target="_blank" rel="noreferrer"><img src="./images/mastodon.svg" alt="Mastodon" width="42" height="42"/></a>
-<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" alt="Free Code Camp" width="42" height="42"/></a>
-<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" alt="Discord" width="42" height="42" /></a>
-<a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" style="padding-right:18px;" alt="LinkedIn" width="42" height="42" /></a>
+<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" style="padding-right:18px;" alt="Bluesky" width="42" height="42" /></a>
+<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" style="padding-right:18px;" alt="Free Code Camp" width="42" height="42"/></a>
+<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" style="padding-right:18px;" alt="Discord" width="42" height="42" /></a>
+<a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" style="padding-right:18px;" alt="Email" width="42" height="42" /></a>
 </p>
 
 ## Skills
 
 <p align="left">
-<img src="./images/html.svg" width="48" alt="HTML5" />
-<img src="./images/css.svg" width="48" alt="CSS" />
-<img src="./images/javascript.svg" width="48" alt="JavaScript" />
-<img src="./images/git.svg" width="48" alt="Git" />
+<img src="./images/html5.svg" alt="HTML5" width="48" style="padding-right:18px;"  />
+<img src="./images/css.svg" alt="CSS" width="48" style="padding-right:18px;" />
+<img src="./images/javascript.svg" alt="JavaScript" width="48" style="padding-right:18px;"  />
+<img src="./images/git.svg" alt="Git" width="48" style="padding-right:18px;"  />
+<img src="./images/linux.svg" alt="Linux" width="48" style="padding-right:18px;"  />
 </p>
 
 ## GitHub Stats
@@ -34,10 +34,6 @@
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&layout=donut&theme=toykonight)]
-
-<!-- Commented out as the link is not working at the moment
-<a href="http://www.github.com/CoreyHedberg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CoreyHedberg&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
 
 <a href="https://github.com/CoreyHedberg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
