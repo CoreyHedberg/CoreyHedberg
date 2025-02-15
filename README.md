@@ -15,7 +15,7 @@
 <a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" style="padding-right:18px;" alt="Email" width="42" height="42" /></a>
 </p>
 
-## Skills
+## Skills & Tools
 
 <p align="left">
 <img src="./images/html5.svg" alt="HTML5" width="48" style="padding-right:18px;"  />
