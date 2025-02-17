@@ -27,12 +27,12 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoreyHedberg&theme=tokyonight&show_icons=true)
+![CoreyHedberg's Stats](https://github-readme-stats.vercel.app/api?username=CoreyHedberg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CoreyHedberg&theme=tokyonight&hide_border=false&border_radius=4.5)
+![CoreyHedberg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoreyHedberg&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&layout=donut&theme=toykonight)
+![CoreyHedberg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyHedberg&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Special Thanks
 
-Thank you to [profileme.dev](https://www.profileme.dev/) for providing the service to create an awesome GitHub profile page!
+Thank you to [profileme.dev](https://www.profileme.dev/) and [GitHub Stats Generator](https://gh-stats-gen.vercel.app/) for providing the services to create an awesome GitHub profile page!
