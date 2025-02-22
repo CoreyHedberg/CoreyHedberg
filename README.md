@@ -8,31 +8,31 @@
 ## Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" style="padding-right:18px;" alt="LinkedIn" width="42" height="42" /></a>
+<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" alt="LinkedIn" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" style="padding-right:18px;" alt="Bluesky" width="42" height="42" /></a>
+<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" alt="Bluesky" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" style="padding-right:18px;" alt="Free Code Camp" width="42" height="42"/></a>
+<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" alt="Free Code Camp" width="38" height="38"/></a>
 &nbsp; &nbsp;
-<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" style="padding-right:18px;" alt="Discord" width="42" height="42" /></a>
+<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" alt="Discord" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" style="padding-right:18px;" alt="Email" width="42" height="42" /></a>
+<a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" alt="Email" width="38" height="38" /></a>
 </p>
 
 ## Skills & Tools
 
 <p align="left">
-<img src="./images/html5.svg" alt="HTML5" width="48" style="padding-right:18px;"  />
+<img src="./images/html5.svg" alt="HTML5" width="38" />
 &nbsp; &nbsp;
-<img src="./images/css.svg" alt="CSS" width="48" style="padding-right:18px;" />
+<img src="./images/css.svg" alt="CSS" width="38" />
 &nbsp; &nbsp;
-<img src="./images/javascript.svg" alt="JavaScript" width="48" style="padding-right:18px;"  />
+<img src="./images/javascript.svg" alt="JavaScript" width="38" />
 &nbsp; &nbsp;
-<img src="./images/markdown.svg" alt="Markdown" width="48" style="padding-right:18px;"  />
+<img src="./images/markdown.svg" alt="Markdown" width="38" />
 &nbsp; &nbsp;
-<img src="./images/git.svg" alt="Git" width="48" style="padding-right:18px;"  />
+<img src="./images/git.svg" alt="Git" width="38" />
 &nbsp; &nbsp;
-<img src="./images/linux.svg" alt="Linux" width="48" style="padding-right:18px;"  />
+<img src="./images/linux.svg" alt="Linux" width="38" />
 </p>
 
 ## GitHub Stats
