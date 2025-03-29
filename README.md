@@ -45,19 +45,6 @@
 
 ![Corey's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chedberg&theme=tokyonight&hide_border=true&display_format=percent&v=2)
 
-<!--
-Github Stats on Netlify
-TODO: Working to get the Github readme stats working on my own instance.
-
-![CoreyHedberg's Stats](https://chedberg-github-readme-stats.netlify.app/api?username=CoreyHedberg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![CoreyHedberg's Streak](https://chedberg-github-readme-stats.netlify.app/?user=CoreyHedberg&theme=tokyonight&hide_border=true)
-
-![CoreyHedberg's Top Languages](https://chedberg-github-readme-stats.netlify.app/api/top-langs/?username=CoreyHedberg&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-![Corey's WakaTime stats](https://chedberg-github-readme-stats.netlify.app/api/wakatime?username=chedberg&theme=tokyonight&hide_border=true&display_format=percent&v=2)
--->
-
 ## Special Thanks
 
 Thank you to [profileme.dev](https://www.profileme.dev/) and [GitHub Stats Generator](https://gh-stats-gen.vercel.app/) for providing the services to create an awesome GitHub profile page!
