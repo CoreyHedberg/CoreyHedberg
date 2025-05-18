@@ -12,6 +12,8 @@
 &nbsp; &nbsp;
 <a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" alt="Bluesky" width="38" height="38" /></a>
 &nbsp; &nbsp;
+<a href="https://wonderful.dev/CoreyHedberg" target="_blank" rel="noreferrer"><img src="./images/wonderful_dev.svg" alt="Wonderful.dev" width="38" height="38" /></a>
+&nbsp; &nbsp;
 <a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" alt="Free Code Camp" width="38" height="38"/></a>
 &nbsp; &nbsp;
 <a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" alt="Discord" width="38" height="38" /></a>
