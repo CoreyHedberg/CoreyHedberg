@@ -8,33 +8,33 @@
 ## Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" alt="LinkedIn" width="38" height="38" /></a>
+<a href="https://www.linkedin.com/in/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" alt="Bluesky" width="38" height="38" /></a>
+<a href="https://bsky.app/profile/cheddr.bsky.social" target="_blank" rel="noreferrer"><img src="./images/bluesky.svg" alt="Bluesky" title="Bluesky" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="https://wonderful.dev/CoreyHedberg" target="_blank" rel="noreferrer"><img src="./images/wonderful_dev.svg" alt="Wonderful.dev" width="38" height="38" /></a>
+<a href="https://wonderful.dev/CoreyHedberg" target="_blank" rel="noreferrer"><img src="./images/wonderful_dev.svg" alt="Wonderful.dev" title="wonderful.dev" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" alt="Free Code Camp" width="38" height="38"/></a>
+<a href="https://www.freecodecamp.org/coreyhedberg" target="_blank" rel="noreferrer"><img src="./images/free_code_camp.svg" alt="Free Code Camp" title="Free Code Camp" width="38" height="38"/></a>
 &nbsp; &nbsp;
-<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" alt="Discord" width="38" height="38" /></a>
+<a href="https://discord.com/users/CoreyH#1378" target="_blank" rel="noreferrer"><img src="./images/discord.svg" alt="Discord" title="Discord" width="38" height="38" /></a>
 &nbsp; &nbsp;
-<a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" alt="Email" width="38" height="38" /></a>
+<a href="mailto:corey@coreyhedberg.dev" rel="noreferrer"><img src="./images/email.svg" alt="Email" title="Email" width="38" height="38" /></a>
 </p>
 
 ## Skills & Tools
 
 <p align="left">
-<img src="./images/html5.svg" alt="HTML5" width="38" />
+<img src="./images/html5.svg" alt="HTML5" title="HTML" width="38" />
 &nbsp; &nbsp;
-<img src="./images/css.svg" alt="CSS" width="38" />
+<img src="./images/css.svg" alt="CSS" title="CSS" width="38" />
 &nbsp; &nbsp;
-<img src="./images/javascript.svg" alt="JavaScript" width="38" />
+<img src="./images/javascript.svg" alt="JavaScript" title="JavaScript" width="38" />
 &nbsp; &nbsp;
-<img src="./images/markdown.svg" alt="Markdown" width="38" />
+<img src="./images/markdown.svg" alt="Markdown" title="Markdown" width="38" />
 &nbsp; &nbsp;
-<img src="./images/git.svg" alt="Git" width="38" />
+<img src="./images/git.svg" alt="Git" title="Git" width="38" />
 &nbsp; &nbsp;
-<img src="./images/linux.svg" alt="Linux" width="38" />
+<img src="./images/linux.svg" alt="Linux" title="Linux" width="38" />
 </p>
 
 ## GitHub Stats
